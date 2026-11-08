@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.py[cod]
+build/
+dist/
+.venv/
+venv/
+.env
+.env.*
+credentials.json
+Mangment2-DesktopApp.zip

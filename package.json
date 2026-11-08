@@ -1,0 +1,12 @@
+{
+  "name": "cloudbase-erp-desktop",
+  "version": "1.0.0",
+  "description": "Electron desktop wrapper for the CloudBase ERP UI HTML file.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
